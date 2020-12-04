@@ -1,0 +1,15 @@
+*.o
+*.obj
+*.a
+*.so
+*.lib
+*.dll
+*.out
+*.exe
+*.app
+
+*.txt
+
+server
+client
+
